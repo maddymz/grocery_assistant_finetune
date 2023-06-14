@@ -1,0 +1,1344 @@
+,prompt,completion
+0,MAKE-DISH->Pasta,"
+
+{
+    ""dishName"": ""Pasta"",
+    ""howTo"": ""Boil the pasta in salted water. Heat oil in a pan and add garlic and onion. Saute for a few minutes. Add the vegetables and saute for a few minutes. Add the tomato sauce and season with salt and pepper. Simmer for a few minutes. Add the cooked pasta and mix well. Serve hot."",
+    ""ingredients"": [
+        ""Pasta"",
+        ""Garlic"",
+        ""Onion"",
+        ""Vegetables"",
+        ""Tomato Sauce"",
+        ""Salt"",
+        ""Pepper""
+    ],
+
+    ""requiredQuantity"": ""Pasta - 500g, Garlic - 2 cloves, Onion - 1, Vegetables - 1 cup, Tomato Sauce - 1/2 cup, Salt - to taste, Pepper - to taste""
+}##EOF##"
+1,MAKE-DISH->Pasta,"
+
+{
+    ""dishName"": ""Pasta"",
+    ""howTo"": ""<p>1. Bring a large pot of salted water to a boil. Add the pasta and cook according to the package instructions until al dente. Drain and rinse under cold water.</p><p>2. Heat the olive oil in a large skillet over medium heat. Add the garlic and cook until fragrant, about 1 minute. Add the tomatoes, oregano, and red pepper flakes. Simmer for 10 minutes.</p><p>3. Add the cooked pasta to the sauce and toss to combine. Serve with freshly grated Parmesan cheese.</p>"",
+    ""ingredients"": [
+        ""Pasta"",
+        ""Olive Oil"",
+        ""Garlic"",
+        ""Tomatoes"",
+        ""Oregano"",
+        ""Red Pepper Flakes"",
+        ""Parmesan Cheese""
+    ],
+    ""requiredQuantity"": ""<table><tr><td>Pasta</td><td>1 lb</td></tr><tr><td>Olive Oil</td><td>2 tablespoons</td></tr><tr><td>Garlic</td><td>2 cloves, minced</td></tr><tr><td>Tomatoes</td><td>2 cups, diced</td></tr><tr><td>Oregano</td><td>1 teaspoon</td></tr><tr><td>Red Pepper Flakes</td><td>1/4 teaspoon</td></tr><tr><td>Parmesan Cheese</td><td>1/4 cup, grated</td></tr></table>""
+}##EOF##"
+2,MAKE-DISH->Pasta,"
+
+{
+    ""dishName"": ""Pasta"",
+    ""howTo"": ""Boil the pasta in a pot of salted water. Heat the olive oil in a large skillet over medium heat. Add garlic and cook for 1 minute. Add the tomatoes and cook for 5 minutes. Add the cooked pasta to the skillet with the tomatoes. Add the basil, oregano, salt, and pepper. Toss to combine and cook for 1 minute."",
+    ""ingredients"": [
+        ""Pasta"",
+        ""Olive Oil"",
+        ""Garlic"",
+        ""Tomatoes"",
+        ""Basil"",
+        ""Oregano"",
+        ""Salt"",
+        ""Pepper""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Pasta</td><td>1 pound</td></tr><tr><td>Olive Oil</td><td>2 tablespoons</td></tr><tr><td>Garlic</td><td>2 cloves, minced</td></tr><tr><td>Tomatoes</td><td>1 cup, diced</td></tr><tr><td>Basil</td><td>1 teaspoon, chopped</td></tr><tr><td>Oregano</td><td>1 teaspoon, chopped</td></tr><tr><td>Salt</td><td>1/4 teaspoon</td></tr><tr><td>Pepper</td><td>1/4 teaspoon</td></tr></table>""
+}##EOF##"
+3,MAKE-DISH->Omelet,"
+
+{
+    ""dishName"": ""Omelet"",
+    ""howTo"": ""Beat eggs in a bowl. Add salt, pepper, and any other desired spices. Heat butter in a skillet over medium-high heat. Pour the egg mixture into the skillet. As the eggs begin to cook, gently pull the eggs across the pan with a spatula, forming large soft curds. When the eggs are nearly set, add the desired fillings on one side of the omelet. Use the spatula to fold the other half of the omelet over the filling. Slide the omelet onto a plate and serve."",
+    ""ingredients"": [
+        ""Eggs"",
+        ""Salt"",
+        ""Pepper"",
+        ""Butter"",
+        ""Fillings""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Eggs</td><td>2</td></tr><tr><td>Salt</td><td>As per taste</td></tr><tr><td>Pepper</td><td>As per taste</td></tr><tr><td>Butter</td><td>2 tablespoons</td></tr><tr><td>Fillings</td><td>As per choice</td></tr></table>""
+}##EOF##"
+4,MAKE-DISH->Omelet,"
+
+{
+    ""dishName"": ""Omelet"",
+    ""howTo"": ""Heat a non-stick pan over medium-high heat. Add butter and let it melt. Pour the beaten eggs into the pan. As the eggs start to set, gently pull the eggs across the pan with a spatula, forming large soft curds. When the eggs are thickened and no visible liquid egg remains, season with salt and pepper. Add desired fillings such as cheese, diced vegetables, or cooked meats. Fold the omelet in half with a spatula. Slide the omelet onto a plate and serve."",
+    ""ingredients"": [
+        ""Eggs"",
+        ""Butter"",
+        ""Salt"",
+        ""Pepper"",
+        ""Cheese"",
+        ""Vegetables"",
+        ""Meats""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Eggs</td><td>2</td></tr><tr><td>Butter</td><td>1 tablespoon</td></tr><tr><td>Salt</td><td>to taste</td></tr><tr><td>Pepper</td><td>to taste</td></tr><tr><td>Cheese</td><td>1/4 cup</td></tr><tr><td>Vegetables</td><td>1/4 cup</td></tr><tr><td>Meats</td><td>1/4 cup</td></tr></table>""
+}##EOF##"
+5,MAKE-DISH->Omelet,"
+
+{
+    ""dishName"": ""Omelet"",
+    ""howTo"": ""In a bowl, beat eggs, milk, salt and pepper. Heat a lightly oiled frying pan over medium high heat. Pour the egg mixture into the pan. As the egg mixture begins to set, gently pull the eggs across the pan with a spatula, forming large soft curds. When the eggs are thickened and no visible liquid egg remains, flip the omelet and cook for another 30 seconds. Slide the omelet onto a plate and serve."",
+    ""ingredients"": [
+        ""Eggs"",
+        ""Milk"",
+        ""Salt"",
+        ""Pepper""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Eggs</td><td>2</td></tr><tr><td>Milk</td><td>2 tablespoons</td></tr><tr><td>Salt</td><td>1/4 teaspoon</td></tr><tr><td>Pepper</td><td>1/4 teaspoon</td></tr></table>""
+}##EOF##"
+6,MAKE-DISH->Scrambled Eggs,"
+
+{
+    ""dishName"": ""Scrambled Eggs"",
+    ""howTo"": ""Heat butter in a non-stick pan over medium heat. Add eggs and season with salt and pepper. Stir eggs with a rubber spatula, scraping the bottom of the pan as you stir. Continue stirring and scraping the bottom of the pan until eggs are softly scrambled and no visible liquid egg remains, about 3 minutes. Serve immediately."",
+    ""ingredients"": [
+        ""Eggs"",
+        ""Butter"",
+        ""Salt"",
+        ""Pepper""
+    ],
+
+    ""requiredQuantity"": ""Eggs: 2-3, Butter: 1 tablespoon, Salt: to taste, Pepper: to taste""
+}##EOF##"
+7,MAKE-DISH->Scrambled Eggs,"
+
+{
+    ""dishName"": ""Scrambled Eggs"",
+    ""howTo"": ""In a medium bowl, whisk together eggs, milk, salt and pepper. Heat butter in a medium skillet over medium heat. Add eggs and cook, stirring and scrambling gently with a spatula, until eggs are cooked through but still moist, about 5 minutes. Serve immediately."",
+    ""ingredients"": [
+        ""Eggs"",
+        ""Milk"",
+        ""Salt"",
+        ""Pepper"",
+        ""Butter""
+    ],
+    ""requiredQuantity"": ""Eggs: 4, Milk: 2 tablespoons, Salt: 1/4 teaspoon, Pepper: 1/4 teaspoon, Butter: 1 tablespoon""
+}##EOF##"
+8,MAKE-DISH->Scrambled Eggs,"
+
+{
+    ""dishName"": ""Scrambled Eggs"",
+    ""howTo"": ""Heat butter in a non-stick pan over medium heat. Add eggs and season with salt and pepper. Stir the eggs with a spatula, scraping the bottom of the pan. Cook until the eggs are almost set. Remove from heat and serve."",
+    ""ingredients"": [
+        ""Eggs"",
+        ""Butter"",
+        ""Salt"",
+        ""Pepper""
+    ],
+
+    ""requiredQuantity"": ""Eggs: 2-3; Butter: 1 tablespoon; Salt: to taste; Pepper: to taste""
+}##EOF##"
+9,MAKE-DISH->Guacamole,"
+
+{
+    ""dishName"": ""Guacamole"",
+    ""howTo"": ""Mash the avocados in a bowl. Add the lime juice, salt, diced onion, diced tomato, and cilantro. Mix until all ingredients are combined. Serve with chips or vegetables."",
+    ""ingredients"": [
+        ""Avocados"",
+        ""Lime Juice"",
+        ""Salt"",
+        ""Onion"",
+        ""Tomato"",
+        ""Cilantro""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Avocados</td><td>2</td></tr><tr><td>Lime Juice</td><td>1 tablespoon</td></tr><tr><td>Salt</td><td>1/2 teaspoon</td></tr><tr><td>Onion</td><td>1/4 cup, diced</td></tr><tr><td>Tomato</td><td>1/4 cup, diced</td></tr><tr><td>Cilantro</td><td>1 tablespoon, chopped</td></tr></table>""
+}##EOF##"
+10,MAKE-DISH->Guacamole,"
+
+{
+    ""dishName"": ""Guacamole"",
+    ""howTo"": ""In a medium bowl, mash together the avocados, lime juice, and salt. Mix in onion, cilantro, tomatoes, and garlic. Serve immediately, or cover and refrigerate until ready to serve."",
+    ""ingredients"": [
+        ""avocados"",
+        ""lime juice"",
+        ""salt"",
+        ""onion"",
+        ""cilantro"",
+        ""tomatoes"",
+        ""garlic""
+    ],
+    ""requiredQuantity"": ""Avocados: 2-3<br>Lime Juice: 2 tablespoons<br>Salt: 1/2 teaspoon<br>Onion: 1/4 cup, diced<br>Cilantro: 2 tablespoons, chopped<br>Tomatoes: 1/2 cup, diced<br>Garlic: 1 clove, minced""
+}##EOF##"
+11,MAKE-DISH->Guacamole,"
+
+{
+    ""dishName"": ""Guacamole"",
+    ""howTo"": ""Mash together avocado, onion, garlic, cilantro, lime juice, and salt. Serve with tortilla chips."",
+    ""ingredients"": [
+        ""Avocado"",
+        ""Onion"",
+        ""Garlic"",
+        ""Cilantro"",
+        ""Lime Juice"",
+        ""Salt""
+    ],
+    ""requiredQuantity"": ""Avocado: 2<br>Onion: 1/4 cup<br>Garlic: 1 clove<br>Cilantro: 2 tablespoons<br>Lime Juice: 1 tablespoon<br>Salt: 1/4 teaspoon""
+}##EOF##"
+12,MAKE-DISH->Grilled Chicken Avocado Salad,"
+
+{
+    ""dishName"": ""Grilled Chicken Avocado Salad"",
+    ""howTo"": ""Preheat the grill to medium-high heat. Rub the chicken breasts with olive oil, salt, and pepper. Grill the chicken for 5-7 minutes per side, or until cooked through. Let the chicken cool before slicing. In a large bowl, combine the lettuce, tomatoes, avocado, corn, and black beans. Slice the chicken and add it to the salad. In a small bowl, whisk together the olive oil, lime juice, garlic, cumin, salt, and pepper. Pour the dressing over the salad and toss to combine. Serve the salad with tortilla chips."",
+    ""ingredients"": [
+        ""Chicken Breasts"",
+        ""Olive Oil"",
+        ""Salt"",
+        ""Pepper"",
+        ""Lettuce"",
+        ""Tomatoes"",
+        ""Avocado"",
+        ""Corn"",
+        ""Black Beans"",
+        ""Lime Juice"",
+        ""Garlic"",
+        ""Cumin"",
+        ""Tortilla Chips""
+    ],
+
+    ""requiredQuantity"": ""Chicken Breasts - 2<br>Olive Oil - 2 tablespoons<br>Salt - 1 teaspoon<br>Pepper - 1/2 teaspoon<br>Lettuce - 2 cups<br>Tomatoes - 1 cup<br>Avocado - 1<br>Corn - 1/2 cup<br>Black Beans - 1/2 cup<br>Lime Juice - 2 tablespoons<br>Garlic - 1 clove, minced<br>Cumin - 1/2 teaspoon<br>Tortilla Chips - 1/2 cup""
+}##EOF##"
+13,MAKE-DISH->Grilled Chicken Avocado Salad,"
+
+{
+    ""dishName"": ""Grilled Chicken Avocado Salad"",
+    ""howTo"": ""Preheat grill to medium-high heat. Grill chicken for 5-7 minutes per side, or until cooked through. Let cool and cut into cubes. In a large bowl, combine lettuce, tomatoes, cucumbers, avocado, and chicken. In a small bowl, whisk together olive oil, lemon juice, garlic, salt, and pepper. Pour over salad and toss to combine. Serve with croutons, if desired."",
+    ""ingredients"": [
+        ""Chicken"",
+        ""Lettuce"",
+        ""Tomatoes"",
+        ""Cucumbers"",
+        ""Avocado"",
+        ""Olive Oil"",
+        ""Lemon Juice"",
+        ""Garlic"",
+        ""Salt"",
+        ""Pepper"",
+        ""Croutons""
+    ],
+
+    ""requiredQuantity"": ""Chicken: 2 breasts<br>Lettuce: 2 cups<br>Tomatoes: 1 cup<br>Cucumbers: 1 cup<br>Avocado: 1<br>Olive Oil: 2 tablespoons<br>Lemon Juice: 2 tablespoons<br>Garlic: 1 clove<br>Salt: 1/4 teaspoon<br>Pepper: 1/4 teaspoon<br>Croutons: 1/2 cup""
+}##EOF##"
+14,MAKE-DISH->Grilled Chicken Avocado Salad,"
+
+{
+    ""dishName"": ""Grilled Chicken Avocado Salad"",
+    ""howTo"": ""1. Preheat your grill to medium-high heat. 2. Rub the chicken breasts with olive oil and season with salt and pepper. 3. Grill the chicken for about 5 minutes per side, until cooked through. 4. Let the chicken cool, then cut into cubes. 5. In a large bowl, combine the cubed chicken, diced avocado, cherry tomatoes, red onion, and cilantro. 6. In a small bowl, whisk together the olive oil, lime juice, garlic, cumin, and salt. 7. Pour the dressing over the salad and toss to combine. 8. Serve the salad immediately."",
+    ""ingredients"": [
+        ""Chicken Breasts"",
+        ""Olive Oil"",
+        ""Salt"",
+        ""Pepper"",
+        ""Avocado"",
+        ""Cherry Tomatoes"",
+        ""Red Onion"",
+        ""Cilantro"",
+        ""Lime Juice"",
+        ""Garlic"",
+        ""Cumin""
+    ],
+    ""requiredQuantity"": ""Chicken Breasts: 2<br>Olive Oil: 2 tablespoons<br>Salt: 1/2 teaspoon<br>Pepper: 1/4 teaspoon<br>Avocado: 1, diced<br>Cherry Tomatoes: 1 cup<br>Red Onion: 1/4 cup, diced<br>Cilantro: 1/4 cup, chopped<br>Lime Juice: 2 tablespoons<br>Garlic: 1 clove, minced<br>Cumin: 1/4 teaspoon""
+}##EOF##"
+15,MAKE-DISH->Pesto Sauce,"
+
+{
+    ""dishName"": ""Pesto Sauce"",
+    ""howTo"": ""In a food processor, combine 2 cloves garlic, 2 cups fresh basil leaves, 1/2 cup freshly grated Parmesan cheese, 1/2 cup extra-virgin olive oil, 1/4 cup pine nuts, 1/4 teaspoon salt, and 1/4 teaspoon freshly ground black pepper. Pulse until the mixture is finely chopped. Taste and adjust the seasonings if desired."",
+    ""ingredients"": [
+        ""Garlic"",
+        ""Basil leaves"",
+        ""Parmesan cheese"",
+        ""Extra-virgin olive oil"",
+        ""Pine nuts"",
+        ""Salt"",
+        ""Black pepper""
+    ],
+
+    ""requiredQuantity"": ""Garlic: 2 cloves<br>Basil leaves: 2 cups<br>Parmesan cheese: 1/2 cup<br>Extra-virgin olive oil: 1/2 cup<br>Pine nuts: 1/4 cup<br>Salt: 1/4 teaspoon<br>Black pepper: 1/4 teaspoon""
+}##EOF##"
+16,MAKE-DISH->Pesto Sauce,"
+
+{
+    ""dishName"": ""Pesto Sauce"",
+    ""howTo"": ""In a food processor, combine 2 cloves garlic, 1/2 cup toasted pine nuts, 2 cups fresh basil leaves, 1/2 teaspoon salt, and 1/4 teaspoon freshly ground black pepper. Pulse until the ingredients are finely chopped. With the machine running, slowly add 1/2 cup extra-virgin olive oil in a steady stream. Add 1/2 cup freshly grated Parmesan cheese and pulse until combined. Taste and adjust seasoning if desired."",
+    ""ingredients"": [
+        ""Garlic"",
+        ""Toasted Pine Nuts"",
+        ""Fresh Basil Leaves"",
+        ""Salt"",
+        ""Freshly Ground Black Pepper"",
+        ""Extra-Virgin Olive Oil"",
+        ""Freshly Grated Parmesan Cheese""
+    ],
+
+    ""requiredQuantity"": ""Garlic: 2 cloves<br>Toasted Pine Nuts: 1/2 cup<br>Fresh Basil Leaves: 2 cups<br>Salt: 1/2 teaspoon<br>Freshly Ground Black Pepper: 1/4 teaspoon<br>Extra-Virgin Olive Oil: 1/2 cup<br>Freshly Grated Parmesan Cheese: 1/2 cup""
+}##EOF##"
+17,MAKE-DISH->Pesto Sauce,"
+
+{
+    ""dishName"": ""Pesto Sauce"",
+    ""howTo"": ""In a food processor, combine 2 cups fresh basil leaves, 1/2 cup freshly grated Parmesan cheese, 1/2 cup extra-virgin olive oil, 1/3 cup pine nuts, 3 garlic cloves, 1 teaspoon salt, and 1/4 teaspoon freshly ground black pepper. Pulse until the mixture is thoroughly blended and resembles a coarse paste, scraping down the sides of the food processor with a rubber spatula as needed."",
+    ""ingredients"": [
+        ""Basil Leaves"",
+        ""Parmesan Cheese"",
+        ""Extra-Virgin Olive Oil"",
+        ""Pine Nuts"",
+        ""Garlic Cloves"",
+        ""Salt"",
+        ""Black Pepper""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Basil Leaves</td><td>2 cups</td></tr><tr><td>Parmesan Cheese</td><td>1/2 cup</td></tr><tr><td>Extra-Virgin Olive Oil</td><td>1/2 cup</td></tr><tr><td>Pine Nuts</td><td>1/3 cup</td></tr><tr><td>Garlic Cloves</td><td>3</td></tr><tr><td>Salt</td><td>1 teaspoon</td></tr><tr><td>Black Pepper</td><td>1/4 teaspoon</td></tr></table>""
+}##EOF##"
+18,MAKE-DISH->Chimichurri,"
+
+{
+    ""dishName"": ""Chimichurri"",
+    ""howTo"": ""In a food processor, combine garlic, parsley, oregano, red pepper flakes, red wine vinegar, olive oil, and salt. Pulse until the ingredients are finely chopped and combined. Taste and adjust seasoning as desired. Serve with grilled meats, fish, or vegetables."",
+    ""ingredients"": [
+        ""Garlic"",
+        ""Parsley"",
+        ""Oregano"",
+        ""Red Pepper Flakes"",
+        ""Red Wine Vinegar"",
+        ""Olive Oil"",
+        ""Salt""
+    ],
+
+    ""requiredQuantity"": ""Garlic - 4 cloves<br>Parsley - 1/2 cup<br>Oregano - 1 teaspoon<br>Red Pepper Flakes - 1/2 teaspoon<br>Red Wine Vinegar - 2 tablespoons<br>Olive Oil - 1/2 cup<br>Salt - 1/2 teaspoon""
+}##EOF##"
+19,MAKE-DISH->Chimichurri,"
+
+{
+    ""dishName"": ""Chimichurri"",
+    ""howTo"": ""In a blender or food processor, combine the garlic, parsley, oregano, red pepper flakes, red wine vinegar, olive oil, and salt. Blend until smooth. Taste and adjust seasoning if necessary. Serve with grilled meats, fish, or vegetables."",
+    ""ingredients"": [
+        ""Garlic"",
+        ""Parsley"",
+        ""Oregano"",
+        ""Red pepper flakes"",
+        ""Red wine vinegar"",
+        ""Olive oil"",
+        ""Salt""
+    ],
+
+    ""requiredQuantity"": ""Garlic - 2 cloves<br>Parsley - 1/2 cup<br>Oregano - 1 teaspoon<br>Red pepper flakes - 1/2 teaspoon<br>Red wine vinegar - 2 tablespoons<br>Olive oil - 1/2 cup<br>Salt - 1 teaspoon""
+}##EOF##"
+20,MAKE-DISH->Chimichurri,"
+
+{
+    ""dishName"": ""Chimichurri"",
+    ""howTo"": ""In a blender, add garlic, parsley, oregano, red pepper flakes, red wine vinegar, olive oil, salt and pepper. Blend until smooth. Taste and adjust seasoning as needed. Serve with grilled meats, fish, or vegetables."",
+    ""ingredients"": [
+        ""Garlic"",
+        ""Parsley"",
+        ""Oregano"",
+        ""Red Pepper Flakes"",
+        ""Red Wine Vinegar"",
+        ""Olive Oil"",
+        ""Salt"",
+        ""Pepper""
+    ],
+
+    ""requiredQuantity"": ""Garlic - 2 cloves<br>Parsley - 1/2 cup<br>Oregano - 1 teaspoon<br>Red Pepper Flakes - 1/2 teaspoon<br>Red Wine Vinegar - 2 tablespoons<br>Olive Oil - 1/2 cup<br>Salt - 1 teaspoon<br>Pepper - 1/4 teaspoon""
+}##EOF##"
+21,MAKE-DISH->Pico de Gallo,"
+
+{
+    ""dishName"": ""Pico de Gallo"",
+    ""howTo"": ""Chop the tomatoes, onion, and jalapeno. Place the chopped ingredients in a bowl. Add the lime juice, cilantro, and salt. Mix everything together. Serve."",
+    ""ingredients"": [
+        ""Tomatoes"",
+        ""Onion"",
+        ""Jalapeno"",
+        ""Lime juice"",
+        ""Cilantro"",
+        ""Salt""
+    ],
+
+    ""requiredQuantity"": ""Tomatoes - 2<br>Onion - 1<br>Jalapeno - 1<br>Lime juice - 2 tablespoons<br>Cilantro - 2 tablespoons<br>Salt - 1 teaspoon""
+}##EOF##"
+22,MAKE-DISH->Pico de Gallo,"
+
+{
+    ""dishName"": ""Pico de Gallo"",
+    ""howTo"": ""In a medium bowl, combine the diced tomatoes, onion, jalapeno, cilantro, lime juice, and salt. Stir until everything is evenly mixed. Taste and adjust the seasoning as desired. Serve with chips, tacos, burritos, or as a topping for salads, eggs, and more."",
+    ""ingredients"": [
+        ""Tomatoes"",
+        ""Onion"",
+        ""Jalapeno"",
+        ""Cilantro"",
+        ""Lime Juice"",
+        ""Salt""
+    ],
+
+    ""requiredQuantity"": ""Tomatoes: 4, diced<br>Onion: 1/2, diced<br>Jalapeno: 1, seeded and diced<br>Cilantro: 2 tablespoons, chopped<br>Lime Juice: 2 tablespoons<br>Salt: 1/2 teaspoon""
+}##EOF##"
+23,MAKE-DISH->Pico de Gallo,"
+
+{
+    ""dishName"": ""Pico de Gallo"",
+    ""howTo"": ""Chop the tomatoes, onion, jalapeno, and cilantro. Mix all the ingredients in a bowl. Squeeze the lime juice over the mixture. Add salt and pepper to taste. Mix all the ingredients together and serve."",
+    ""ingredients"": [
+        ""Tomatoes"",
+        ""Onion"",
+        ""Jalapeno"",
+        ""Cilantro"",
+        ""Lime juice"",
+        ""Salt"",
+        ""Pepper""
+    ],
+
+    ""requiredQuantity"": ""Tomatoes: 2-3<br>Onion: 1/2<br>Jalapeno: 1<br>Cilantro: 1/4 cup<br>Lime juice: 2 tablespoons<br>Salt: to taste<br>Pepper: to taste""
+}##EOF##"
+24,MAKE-DISH->Pickled Onions,"
+
+{
+    ""dishName"": ""Pickled Onions"",
+    ""howTo"": ""Peel and thinly slice the onions. Place the onions in a large bowl and add the vinegar, sugar, salt, and spices. Stir everything together until the onions are evenly coated. Transfer the onions to a jar or airtight container and let them sit at room temperature for at least 1 hour before serving."",
+    ""ingredients"": [
+        ""Onions"",
+        ""Vinegar"",
+        ""Sugar"",
+        ""Salt"",
+        ""Spices""
+    ],
+
+    ""requiredQuantity"": ""Onions: 2<br>Vinegar: 1/2 cup<br>Sugar: 2 tablespoons<br>Salt: 1 teaspoon<br>Spices: 1 teaspoon""
+}##EOF##"
+25,MAKE-DISH->Pickled Onions,"
+
+{
+    ""dishName"": ""Pickled Onions"",
+    ""howTo"": ""1. Peel and thinly slice the onions. 2. Place the onions in a bowl and cover with boiling water. Let sit for 10 minutes. 3. Drain the onions and place in a large jar. 4. In a small saucepan, combine the vinegar, sugar, salt, and spices. Bring to a boil and stir until the sugar and salt dissolve. 5. Pour the hot liquid over the onions. 6. Let cool to room temperature, seal the jar, and refrigerate for at least 1 day before serving."",
+    ""ingredients"": [
+        ""Onions"",
+        ""White Vinegar"",
+        ""Sugar"",
+        ""Salt"",
+        ""Spices""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Onions</td><td>2</td></tr><tr><td>White Vinegar</td><td>1 cup</td></tr><tr><td>Sugar</td><td>2 tablespoons</td></tr><tr><td>Salt</td><td>1 teaspoon</td></tr><tr><td>Spices</td><td>1 teaspoon</td></tr></table>""
+}##EOF##"
+26,MAKE-DISH->Pickled Onions,"
+
+{
+    ""dishName"": ""Pickled Onions"",
+    ""howTo"": ""1. Peel and slice the onions. 2. Place the onions in a large bowl and sprinkle with salt. 3. Pour the vinegar over the onions and let sit for 1 hour. 4. Place the onions in a jar and cover with the vinegar mixture. 5. Refrigerate for at least 24 hours before serving."",
+    ""ingredients"": [
+        ""Onions"",
+        ""Salt"",
+        ""Vinegar""
+    ],
+
+    ""requiredQuantity"": ""Onions - 2 large<br>Salt - 1 teaspoon<br>Vinegar - 1 cup""
+}##EOF##"
+27,MAKE-DISH->Homemade Ranch Dressing,"
+
+{
+    ""dishName"": ""Homemade Ranch Dressing"",
+    ""howTo"": ""In a medium bowl, whisk together 1/2 cup mayonnaise, 1/2 cup sour cream, 1/4 cup buttermilk, 1/4 cup finely chopped fresh parsley, 1/2 teaspoon garlic powder, 1/2 teaspoon onion powder, 1/2 teaspoon dried dill weed, 1/4 teaspoon salt, 1/4 teaspoon freshly ground black pepper, and 1/8 teaspoon cayenne pepper. Cover and refrigerate for at least 1 hour before serving."",
+    ""ingredients"": [
+        ""Mayonnaise"",
+        ""Sour Cream"",
+        ""Buttermilk"",
+        ""Fresh Parsley"",
+        ""Garlic Powder"",
+        ""Onion Powder"",
+        ""Dried Dill Weed"",
+        ""Salt"",
+        ""Black Pepper"",
+        ""Cayenne Pepper""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Mayonnaise</td><td>1/2 cup</td></tr><tr><td>Sour Cream</td><td>1/2 cup</td></tr><tr><td>Buttermilk</td><td>1/4 cup</td></tr><tr><td>Fresh Parsley</td><td>1/4 cup</td></tr><tr><td>Garlic Powder</td><td>1/2 teaspoon</td></tr><tr><td>Onion Powder</td><td>1/2 teaspoon</td></tr><tr><td>Dried Dill Weed</td><td>1/2 teaspoon</td></tr><tr><td>Salt</td><td>1/4 teaspoon</td></tr><tr><td>Black Pepper</td><td>1/4 teaspoon</td></tr><tr><td>Cayenne Pepper</td><td>1/8 teaspoon</td></tr></table>""
+}##EOF##"
+28,MAKE-DISH->Homemade Ranch Dressing,"
+
+{
+    ""dishName"": ""Homemade Ranch Dressing"",
+    ""howTo"": ""In a medium bowl, whisk together 1/2 cup mayonnaise, 1/2 cup sour cream, 1/4 cup buttermilk, 1/4 teaspoon garlic powder, 1/4 teaspoon onion powder, 1/4 teaspoon dried parsley, 1/4 teaspoon dried dill, 1/4 teaspoon salt, and 1/4 teaspoon pepper. Taste and adjust seasonings as desired. Cover and refrigerate for at least 30 minutes before serving."",
+    ""ingredients"": [
+        ""Mayonnaise"",
+        ""Sour Cream"",
+        ""Buttermilk"",
+        ""Garlic Powder"",
+        ""Onion Powder"",
+        ""Dried Parsley"",
+        ""Dried Dill"",
+        ""Salt"",
+        ""Pepper""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Mayonnaise</td><td>1/2 cup</td></tr><tr><td>Sour Cream</td><td>1/2 cup</td></tr><tr><td>Buttermilk</td><td>1/4 cup</td></tr><tr><td>Garlic Powder</td><td>1/4 teaspoon</td></tr><tr><td>Onion Powder</td><td>1/4 teaspoon</td></tr><tr><td>Dried Parsley</td><td>1/4 teaspoon</td></tr><tr><td>Dried Dill</td><td>1/4 teaspoon</td></tr><tr><td>Salt</td><td>1/4 teaspoon</td></tr><tr><td>Pepper</td><td>1/4 teaspoon</td></tr></table>""
+}##EOF##"
+29,MAKE-DISH->Homemade Ranch Dressing,"
+
+{
+    ""dishName"": ""Homemade Ranch Dressing"",
+    ""howTo"": ""In a medium bowl, whisk together 1/2 cup mayonnaise, 1/4 cup buttermilk, 1/4 cup sour cream, 1/2 teaspoon garlic powder, 1/2 teaspoon onion powder, 1/2 teaspoon dried parsley, 1/4 teaspoon dried dill, 1/4 teaspoon dried chives, 1/4 teaspoon salt, and 1/8 teaspoon pepper. Refrigerate for at least 30 minutes before serving."",
+    ""ingredients"": [
+        ""Mayonnaise"",
+        ""Buttermilk"",
+        ""Sour Cream"",
+        ""Garlic Powder"",
+        ""Onion Powder"",
+        ""Dried Parsley"",
+        ""Dried Dill"",
+        ""Dried Chives"",
+        ""Salt"",
+        ""Pepper""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Mayonnaise</td><td>1/2 cup</td></tr><tr><td>Buttermilk</td><td>1/4 cup</td></tr><tr><td>Sour Cream</td><td>1/4 cup</td></tr><tr><td>Garlic Powder</td><td>1/2 teaspoon</td></tr><tr><td>Onion Powder</td><td>1/2 teaspoon</td></tr><tr><td>Dried Parsley</td><td>1/2 teaspoon</td></tr><tr><td>Dried Dill</td><td>1/4 teaspoon</td></tr><tr><td>Dried Chives</td><td>1/4 teaspoon</td></tr><tr><td>Salt</td><td>1/4 teaspoon</td></tr><tr><td>Pepper</td><td>1/8 teaspoon</td></tr></table>""
+}##EOF##"
+30,MAKE-DISH->Chicken Adobo,"
+
+{
+    ""dishName"": ""Chicken Adobo"",
+    ""howTo"": ""In a large pot, combine chicken, garlic, soy sauce, vinegar, bay leaves, peppercorns, and enough water to cover the chicken. Bring to a boil, reduce heat, and simmer for 45 minutes. Remove chicken from the pot and set aside. In a separate pan, heat oil over medium-high heat. Add chicken and fry until golden brown. Return chicken to the pot with the sauce. Simmer for an additional 10 minutes. Serve with steamed rice."",
+    ""ingredients"": [
+        ""Chicken"",
+        ""Garlic"",
+        ""Soy Sauce"",
+        ""Vinegar"",
+        ""Bay Leaves"",
+        ""Peppercorns"",
+        ""Water"",
+        ""Oil""
+    ],
+
+    ""requiredQuantity"": ""Chicken: 1kg<br>Garlic: 4 cloves<br>Soy Sauce: 1/2 cup<br>Vinegar: 1/2 cup<br>Bay Leaves: 2<br>Peppercorns: 1 teaspoon<br>Water: 4 cups<br>Oil: 1 tablespoon""
+}##EOF##"
+31,MAKE-DISH->Chicken Adobo,"
+
+{
+    ""dishName"": ""Chicken Adobo"",
+    ""howTo"": ""In a large pot, heat oil over medium-high heat. Add chicken and cook until lightly browned. Add garlic and cook for 1 minute. Add vinegar, soy sauce, bay leaves, and peppercorns. Bring to a boil, reduce heat to low, and simmer for 20 minutes. Add potatoes and simmer for 10 minutes. Add bell pepper and simmer for 5 minutes. Remove from heat and serve."",
+    ""ingredients"": [
+        ""Chicken"",
+        ""Garlic"",
+        ""Vinegar"",
+        ""Soy sauce"",
+        ""Bay leaves"",
+        ""Peppercorns"",
+        ""Potatoes"",
+        ""Bell pepper""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Chicken</td><td>1 kg</td></tr><tr><td>Garlic</td><td>6 cloves</td></tr><tr><td>Vinegar</td><td>1/2 cup</td></tr><tr><td>Soy sauce</td><td>1/2 cup</td></tr><tr><td>Bay leaves</td><td>2</td></tr><tr><td>Peppercorns</td><td>1 teaspoon</td></tr><tr><td>Potatoes</td><td>2</td></tr><tr><td>Bell pepper</td><td>1</td></tr></table>""
+}##EOF##"
+32,MAKE-DISH->Chicken Adobo,"
+
+{
+    ""dishName"": ""Chicken Adobo"",
+    ""howTo"": ""In a large saucepan, combine the soy sauce, vinegar, garlic, bay leaves, peppercorns, and chicken. Bring to a boil over medium-high heat, then reduce heat to low and simmer for 25 minutes. Add the potatoes and simmer for an additional 10 minutes. Remove the chicken and potatoes from the saucepan and set aside. Increase the heat to medium-high and reduce the sauce until thickened, about 10 minutes. Return the chicken and potatoes to the saucepan and toss to coat with the sauce. Serve with steamed white rice."",
+    ""ingredients"": [
+        ""Soy sauce"",
+        ""Vinegar"",
+        ""Garlic"",
+        ""Bay leaves"",
+        ""Peppercorns"",
+        ""Chicken"",
+        ""Potatoes""
+    ],
+
+    ""requiredQuantity"": ""Soy sauce: 1/2 cup<br>Vinegar: 1/2 cup<br>Garlic: 4 cloves, minced<br>Bay leaves: 2<br>Peppercorns: 1 teaspoon<br>Chicken: 2 pounds, cut into 8 pieces<br>Potatoes: 2 large, cut into 1-inch cubes""
+}##EOF##"
+33,MAKE-DISH->Spanish Garlic Shrimp,"
+
+{
+    ""dishName"": ""Spanish Garlic Shrimp"",
+    ""howTo"": ""In a large skillet, heat oil over medium-high heat. Add garlic and cook, stirring, until fragrant, about 1 minute. Add shrimp and cook, stirring, until shrimp are pink and cooked through, about 3 minutes. Add paprika, cumin, salt, and pepper and cook, stirring, until fragrant, about 1 minute. Add tomatoes and cook until softened, about 3 minutes. Add parsley and cook, stirring, until just wilted, about 1 minute. Serve with crusty bread."",
+    ""ingredients"": [
+        ""Olive oil"",
+        ""Garlic"",
+        ""Shrimp"",
+        ""Paprika"",
+        ""Cumin"",
+        ""Salt"",
+        ""Pepper"",
+        ""Tomatoes"",
+        ""Parsley""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Olive oil</td><td>2 tablespoons</td></tr><tr><td>Garlic</td><td>3 cloves, minced</td></tr><tr><td>Shrimp</td><td>1 pound, peeled and deveined</td></tr><tr><td>Paprika</td><td>1 teaspoon</td></tr><tr><td>Cumin</td><td>1 teaspoon</td></tr><tr><td>Salt</td><td>1/2 teaspoon</td></tr><tr><td>Pepper</td><td>1/4 teaspoon</td></tr><tr><td>Tomatoes</td><td>1 cup, diced</td></tr><tr><td>Parsley</td><td>1/4 cup, chopped</td></tr></table>""
+}##EOF##"
+34,MAKE-DISH->Spanish Garlic Shrimp,"
+
+{
+    ""dishName"": ""Spanish Garlic Shrimp"",
+    ""howTo"": ""In a large skillet, heat oil over medium-high heat. Add garlic and cook, stirring, until fragrant, about 1 minute. Add shrimp and season with salt and pepper. Cook, stirring occasionally, until shrimp are pink and cooked through, about 4 minutes. Add parsley and lemon juice and stir to combine. Serve hot."",
+    ""ingredients"": [
+        ""Olive Oil"",
+        ""Garlic"",
+        ""Shrimp"",
+        ""Salt"",
+        ""Pepper"",
+        ""Parsley"",
+        ""Lemon Juice""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Olive Oil</td><td>2 tablespoons</td></tr><tr><td>Garlic</td><td>2 cloves, minced</td></tr><tr><td>Shrimp</td><td>1 pound, peeled and deveined</td></tr><tr><td>Salt</td><td>1/2 teaspoon</td></tr><tr><td>Pepper</td><td>1/4 teaspoon</td></tr><tr><td>Parsley</td><td>2 tablespoons, chopped</td></tr><tr><td>Lemon Juice</td><td>1 tablespoon</td></tr></table>""
+}##EOF##"
+35,MAKE-DISH->Spanish Garlic Shrimp,"
+
+{
+    ""dishName"": ""Spanish Garlic Shrimp"",
+    ""howTo"": ""In a large skillet, heat oil over medium-high heat. Add garlic and cook, stirring, until fragrant, about 1 minute. Add shrimp and season with salt and pepper. Cook, stirring occasionally, until shrimp are pink and cooked through, about 3 minutes. Add paprika, oregano, and lemon juice. Cook for 1 minute more. Serve with lemon wedges and parsley."",
+    ""ingredients"": [
+        ""Olive oil"",
+        ""Garlic cloves"",
+        ""Shrimp"",
+        ""Salt"",
+        ""Pepper"",
+        ""Smoked paprika"",
+        ""Dried oregano"",
+        ""Lemon juice"",
+        ""Lemon wedges"",
+        ""Fresh parsley""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Olive oil</td><td>2 tablespoons</td></tr><tr><td>Garlic cloves</td><td>4, minced</td></tr><tr><td>Shrimp</td><td>1 lb, peeled and deveined</td></tr><tr><td>Salt</td><td>To taste</td></tr><tr><td>Pepper</td><td>To taste</td></tr><tr><td>Smoked paprika</td><td>1 teaspoon</td></tr><tr><td>Dried oregano</td><td>1 teaspoon</td></tr><tr><td>Lemon juice</td><td>2 tablespoons</td></tr><tr><td>Lemon wedges</td><td>For serving</td></tr><tr><td>Fresh parsley</td><td>For serving</td></tr></table>""
+}##EOF##"
+36,MAKE-DISH->Avocado Berry Smoothie,"
+
+{
+    ""dishName"": ""Avocado Berry Smoothie"",
+    ""howTo"": ""Add 1/2 cup of frozen berries, 1/2 an avocado, 1/2 cup of almond milk, 1/2 cup of plain yogurt, 1 teaspoon of honey and 1/2 teaspoon of vanilla extract into a blender. Blend until smooth. Pour into a glass and enjoy!"",
+    ""ingredients"": [
+        ""Frozen Berries"",
+        ""Avocado"",
+        ""Almond Milk"",
+        ""Plain Yogurt"",
+        ""Honey"",
+        ""Vanilla Extract""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Frozen Berries</td><td>1/2 cup</td></tr><tr><td>Avocado</td><td>1/2</td></tr><tr><td>Almond Milk</td><td>1/2 cup</td></tr><tr><td>Plain Yogurt</td><td>1/2 cup</td></tr><tr><td>Honey</td><td>1 teaspoon</td></tr><tr><td>Vanilla Extract</td><td>1/2 teaspoon</td></tr></table>""
+}##EOF##"
+37,MAKE-DISH->Avocado Berry Smoothie,"
+
+{
+    ""dishName"": ""Avocado Berry Smoothie"",
+    ""howTo"": ""Blend together 1/2 cup of frozen blueberries, 1/2 cup of frozen strawberries, 1/2 an avocado, 1/2 cup of almond milk, 1/2 teaspoon of honey, and 1/2 teaspoon of vanilla extract until smooth."",
+    ""ingredients"": [
+        ""Frozen Blueberries"",
+        ""Frozen Strawberries"",
+        ""Avocado"",
+        ""Almond Milk"",
+        ""Honey"",
+        ""Vanilla Extract""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Frozen Blueberries</td><td>1/2 cup</td></tr><tr><td>Frozen Strawberries</td><td>1/2 cup</td></tr><tr><td>Avocado</td><td>1/2</td></tr><tr><td>Almond Milk</td><td>1/2 cup</td></tr><tr><td>Honey</td><td>1/2 teaspoon</td></tr><tr><td>Vanilla Extract</td><td>1/2 teaspoon</td></tr></table>""
+}##EOF##"
+38,MAKE-DISH->Avocado Berry Smoothie,"
+
+{
+    ""dishName"": ""Avocado Berry Smoothie"",
+    ""howTo"": ""Combine 1/2 cup of frozen berries, 1/2 an avocado, 1/2 cup of almond milk, 1/2 teaspoon of honey, and 1/4 teaspoon of vanilla extract in a blender. Blend until smooth. Serve and enjoy!"",
+    ""ingredients"": [
+        ""Frozen Berries"",
+        ""Avocado"",
+        ""Almond Milk"",
+        ""Honey"",
+        ""Vanilla Extract""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Frozen Berries</td><td>1/2 cup</td></tr><tr><td>Avocado</td><td>1/2</td></tr><tr><td>Almond Milk</td><td>1/2 cup</td></tr><tr><td>Honey</td><td>1/2 teaspoon</td></tr><tr><td>Vanilla Extract</td><td>1/4 teaspoon</td></tr></table>""
+}##EOF##"
+39,MAKE-DISH->Butter Chicken,"
+
+{
+    ""dishName"": ""Butter Chicken"",
+    ""howTo"": ""1. Heat oil in a pan and add the ginger, garlic and onion. Cook until the onion is soft. 2. Add the tomato puree and cook for a few minutes. 3. Add the garam masala, chilli powder, cumin powder, coriander powder and turmeric and cook for a few minutes. 4. Add the chicken and cook for a few minutes. 5. Add the cream and butter and cook for a few minutes. 6. Add the coriander leaves and cook for a few minutes. 7. Serve hot with rice or naan."",
+    ""ingredients"": [
+        ""Oil"",
+        ""Ginger"",
+        ""Garlic"",
+        ""Onion"",
+        ""Tomato Puree"",
+        ""Garam Masala"",
+        ""Chilli Powder"",
+        ""Cumin Powder"",
+        ""Coriander Powder"",
+        ""Turmeric"",
+        ""Chicken"",
+        ""Cream"",
+        ""Butter"",
+        ""Coriander Leaves""
+    ],
+    ""requiredQuantity"": ""Oil: 2 tablespoons<br>Ginger: 1 tablespoon, minced<br>Garlic: 2 cloves, minced<br>Onion: 1, finely chopped<br>Tomato Puree: 1 cup<br>Garam Masala: 1 teaspoon<br>Chilli Powder: 1 teaspoon<br>Cumin Powder: 1 teaspoon<br>Coriander Powder: 1 teaspoon<br>Turmeric: 1/2 teaspoon<br>Chicken: 500g, cut into cubes<br>Cream: 1/2 cup<br>Butter: 2 tablespoons<br>Coriander Leaves: 2 tablespoons, finely chopped""
+}##EOF##"
+40,MAKE-DISH->Butter Chicken,"
+
+{
+    ""dishName"": ""Butter Chicken"",
+    ""howTo"": ""Marinate the chicken with yogurt, ginger-garlic paste, lemon juice, garam masala, red chili powder, coriander powder, cumin powder and salt. Heat butter in a pan and add the chicken pieces. Cook until the chicken is done. Add tomato puree, cream, sugar and garam masala. Simmer for 10 minutes. Garnish with coriander leaves and serve hot."",
+    ""ingredients"": [
+        ""Chicken"",
+        ""Yogurt"",
+        ""Ginger-Garlic Paste"",
+        ""Lemon Juice"",
+        ""Garam Masala"",
+        ""Red Chili Powder"",
+        ""Coriander Powder"",
+        ""Cumin Powder"",
+        ""Salt"",
+        ""Butter"",
+        ""Tomato Puree"",
+        ""Cream"",
+        ""Sugar"",
+        ""Coriander Leaves""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredients</th><th>Quantity</th></tr><tr><td>Chicken</td><td>1 kg</td></tr><tr><td>Yogurt</td><td>1/2 cup</td></tr><tr><td>Ginger-Garlic Paste</td><td>2 tsp</td></tr><tr><td>Lemon Juice</td><td>2 tsp</td></tr><tr><td>Garam Masala</td><td>1 tsp</td></tr><tr><td>Red Chili Powder</td><td>1 tsp</td></tr><tr><td>Coriander Powder</td><td>2 tsp</td></tr><tr><td>Cumin Powder</td><td>1 tsp</td></tr><tr><td>Salt</td><td>to taste</td></tr><tr><td>Butter</td><td>2 tbsp</td></tr><tr><td>Tomato Puree</td><td>1/2 cup</td></tr><tr><td>Cream</td><td>1/4 cup</td></tr><tr><td>Sugar</td><td>1 tsp</td></tr><tr><td>Coriander Leaves</td><td>for garnishing</td></tr></table>""
+}##EOF##"
+41,MAKE-DISH->Butter Chicken,"
+
+{
+    ""dishName"": ""Butter Chicken"",
+    ""howTo"": ""In a large bowl, mix together the yogurt, garlic, ginger, garam masala, cumin, paprika, cayenne, and salt. Add the chicken and stir to coat. Cover and refrigerate for at least 1 hour, or overnight. Preheat the oven to 375 degrees F (190 degrees C). Grease a 9x13 inch baking dish. Arrange the chicken in the prepared dish. Bake in the preheated oven for 30 minutes. Meanwhile, melt the butter in a large skillet over medium heat. Stir in the tomato sauce, cream, and sugar. Simmer for 10 minutes. Add the chicken to the sauce and simmer for an additional 10 minutes."",
+    ""ingredients"": [
+        ""Yogurt"",
+        ""Garlic"",
+        ""Ginger"",
+        ""Garam Masala"",
+        ""Cumin"",
+        ""Paprika"",
+        ""Cayenne"",
+        ""Salt"",
+        ""Chicken"",
+        ""Butter"",
+        ""Tomato Sauce"",
+        ""Cream"",
+        ""Sugar""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Yogurt</td><td>1 cup</td></tr><tr><td>Garlic</td><td>2 cloves</td></tr><tr><td>Ginger</td><td>1 teaspoon</td></tr><tr><td>Garam Masala</td><td>1 teaspoon</td></tr><tr><td>Cumin</td><td>1 teaspoon</td></tr><tr><td>Paprika</td><td>1 teaspoon</td></tr><tr><td>Cayenne</td><td>1/2 teaspoon</td></tr><tr><td>Salt</td><td>1/2 teaspoon</td></tr><tr><td>Chicken</td><td>4 boneless, skinless chicken breasts</td></tr><tr><td>Butter</td><td>1/2 cup</td></tr><tr><td>Tomato Sauce</td><td>1 cup</td></tr><tr><td>Cream</td><td>1/2 cup</td></tr><tr><td>Sugar</td><td>1 teaspoon</td></tr></table>""
+}##EOF##"
+42,MAKE-DISH->Affogato,"
+
+{
+    ""dishName"": ""Affogato"",
+    ""howTo"": ""Pour a shot of espresso over a scoop of vanilla ice cream in a bowl or cup. Top with a sprinkle of cocoa powder and serve immediately."",
+    ""ingredients"": [
+        ""Espresso"",
+        ""Vanilla Ice Cream"",
+        ""Cocoa Powder""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Espresso</td><td>1 shot</td></tr><tr><td>Vanilla Ice Cream</td><td>1 scoop</td></tr><tr><td>Cocoa Powder</td><td>Sprinkle</td></tr></table>""
+}##EOF##"
+43,MAKE-DISH->Affogato,"
+
+{
+    ""dishName"": ""Affogato"",
+    ""howTo"": ""Brew a shot of espresso. Scoop one or two scoops of vanilla ice cream into a cup or bowl. Pour the hot espresso over the ice cream. Top with a sprinkle of cocoa powder or shaved chocolate."",
+    ""ingredients"": [
+        ""Espresso"",
+        ""Vanilla Ice Cream"",
+        ""Cocoa Powder""
+    ],
+
+    ""requiredQuantity"": ""Espresso: 1 shot<br>Vanilla Ice Cream: 1-2 scoops<br>Cocoa Powder: Sprinkle""
+}##EOF##"
+44,MAKE-DISH->Affogato,"
+
+{
+    ""dishName"": ""Affogato"",
+    ""howTo"": ""Brew a shot of espresso. Scoop 1-2 scoops of vanilla ice cream into a glass. Pour the espresso over the ice cream. Top with a sprinkle of cocoa powder."",
+    ""ingredients"": [
+        ""Espresso"",
+        ""Vanilla Ice Cream"",
+        ""Cocoa Powder""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Espresso</td><td>1 shot</td></tr><tr><td>Vanilla Ice Cream</td><td>1-2 scoops</td></tr><tr><td>Cocoa Powder</td><td>Sprinkle</td></tr></table>""
+}##EOF##"
+45,MAKE-DISH->Roti,"
+
+{
+    ""dishName"": ""Roti"",
+    ""howTo"": ""Mix the flour, salt and oil together in a bowl. Add water and knead the dough until it is soft. Divide the dough into small balls. Take one ball and roll it out on a lightly floured surface into a thin circle. Heat a tawa or griddle over medium heat. Place the rolled out roti on the hot tawa. Cook for a few seconds. Flip the roti and cook the other side. Apply a little oil or ghee on the roti and cook for a few more seconds. Flip the roti again and press it lightly with a spatula. Cook for a few more seconds. Remove the roti from the tawa and serve hot."",
+    ""ingredients"": [
+        ""Flour"",
+        ""Salt"",
+        ""Oil"",
+        ""Water""
+    ],
+    ""requiredQuantity"": ""Flour - 2 cups<br>Salt - 1/2 teaspoon<br>Oil - 1 tablespoon<br>Water - 1/2 cup""
+}##EOF##"
+46,MAKE-DISH->Roti,"
+
+{
+    ""dishName"": ""Roti"",
+    ""howTo"": ""In a bowl, mix together 2 cups of whole wheat flour, 1 teaspoon of salt and 1 teaspoon of oil. Add water gradually and knead the dough until it is soft and pliable. Cover the dough and let it rest for 10 minutes. Divide the dough into 8 equal portions. Take one portion and roll it into a circle of 6 inches in diameter. Heat a tawa or griddle and place the roti on it. Cook on one side for a few seconds and then flip it over. Apply a few drops of oil on the cooked side and flip it over again. Cook the other side until it is golden brown. Remove the roti from the tawa and serve hot."",
+    ""ingredients"": [
+        ""Whole Wheat Flour"",
+        ""Salt"",
+        ""Oil"",
+        ""Water""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Whole Wheat Flour</td><td>2 cups</td></tr><tr><td>Salt</td><td>1 teaspoon</td></tr><tr><td>Oil</td><td>1 teaspoon</td></tr><tr><td>Water</td><td>As required</td></tr></table>""
+}##EOF##"
+47,MAKE-DISH->Roti,"
+
+{
+    ""dishName"": ""Roti"",
+    ""howTo"": ""Mix whole wheat flour, salt and oil in a bowl. Add water gradually and knead the dough. Cover the dough with a damp cloth and let it rest for 15 minutes. Divide the dough into small balls. Roll out each ball into a thin circle. Heat a tawa or griddle. Place the rolled out roti on the tawa. Cook on both sides until it turns golden brown. Serve hot with any curry or sabzi."",
+    ""ingredients"": [
+        ""Whole wheat flour"",
+        ""Salt"",
+        ""Oil"",
+        ""Water""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Whole wheat flour</td><td>2 cups</td></tr><tr><td>Salt</td><td>1/2 teaspoon</td></tr><tr><td>Oil</td><td>2 tablespoons</td></tr><tr><td>Water</td><td>1/2 cup</td></tr></table>""
+}##EOF##"
+48,MAKE-DISH->Coca-Cola Cake,"
+
+{
+    ""dishName"": ""Coca-Cola Cake"",
+    ""howTo"": ""Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch pan. In a medium bowl, stir together the cake mix, melted butter, 1 egg and the cola until well blended. Pour into the prepared pan. Bake for 35 to 40 minutes in the preheated oven, or until the top is springy to the touch. In a medium bowl, combine the confectioners' sugar, cocoa, cola, butter and vanilla. Beat until smooth. Frost the cooled cake. Enjoy!"",
+    ""ingredients"": [
+        ""Cake Mix"",
+        ""Butter"",
+        ""Egg"",
+        ""Cola"",
+        ""Confectioners' Sugar"",
+        ""Cocoa"",
+        ""Vanilla""
+    ],
+
+    ""requiredQuantity"": ""Cake Mix - 1<br>Butter - 1/2 cup, melted<br>Egg - 1<br>Cola - 1/2 cup<br>Confectioners' Sugar - 2 cups<br>Cocoa - 1/4 cup<br>Vanilla - 1 teaspoon""
+}##EOF##"
+49,MAKE-DISH->Coca-Cola Cake,"
+
+{
+    ""dishName"": ""Coca-Cola Cake"",
+    ""howTo"": ""Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch pan. In a large bowl, combine cake mix, melted butter, eggs, and Coca-Cola. Beat for 5 minutes. Pour batter into prepared pan. Bake for 35 to 40 minutes, or until a toothpick inserted into the center of the cake comes out clean. Cool cake in pan for 15 minutes, then turn out onto a wire rack and cool completely. In a medium bowl, combine powdered sugar, cocoa, butter, and Coca-Cola. Beat until smooth and creamy. Spread over cooled cake."",
+    ""ingredients"": [
+        ""Cake Mix"",
+        ""Butter"",
+        ""Eggs"",
+        ""Coca-Cola"",
+        ""Powdered Sugar"",
+        ""Cocoa"",
+    ],
+
+    ""requiredQuantity"": ""Cake Mix: 1<br>Butter: 1/2 cup (melted)<br>Eggs: 4<br>Coca-Cola: 1 cup<br>Powdered Sugar: 3 cups<br>Cocoa: 1/2 cup<br>Butter: 1/2 cup (softened)<br>Coca-Cola: 3 tablespoons""
+}##EOF##"
+50,MAKE-DISH->Coca-Cola Cake,"
+
+{
+    ""dishName"": ""Coca-Cola Cake"",
+    ""howTo"": ""<ol><li>Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch pan.</li><li>In a large bowl, combine cake mix, melted butter, eggs and Coca-Cola. Beat for 2 minutes.</li><li>Pour batter into prepared pan.</li><li>Bake at 350 degrees F (175 degrees C) for 35 minutes. Let cool.</li><li>In a medium bowl, combine confectioners' sugar, cocoa, butter, milk and vanilla. Beat until smooth.</li><li>Spread over cooled cake.</li></ol>"",
+    ""ingredients"": [
+        ""Cake Mix"",
+        ""Butter"",
+        ""Eggs"",
+        ""Coca-Cola"",
+        ""Confectioners' Sugar"",
+        ""Cocoa"",
+        ""Butter"",
+        ""Milk"",
+        ""Vanilla""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Cake Mix</td><td>1</td></tr><tr><td>Butter</td><td>1/2 cup, melted</td></tr><tr><td>Eggs</td><td>3</td></tr><tr><td>Coca-Cola</td><td>1 cup</td></tr><tr><td>Confectioners' Sugar</td><td>2 cups</td></tr><tr><td>Cocoa</td><td>1/4 cup</td></tr><tr><td>Butter</td><td>1/2 cup</td></tr><tr><td>Milk</td><td>3 tablespoons</td></tr><tr><td>Vanilla</td><td>1 teaspoon</td></tr></table>""
+}##EOF##"
+51,MAKE-DISH->Grilled Cheese Sandwhich,"
+
+{
+    ""dishName"": ""Grilled Cheese Sandwhich"",
+    ""howTo"": ""Spread butter on one side of each slice of bread. Place one slice of bread, butter side down, in a skillet over medium heat. Place cheese slices on top of the bread. Top with the second slice of bread, butter side up. Grill until golden brown and cheese is melted, about 3-4 minutes per side."",
+    ""ingredients"": [
+        ""Bread"",
+        ""Butter"",
+        ""Cheese""
+    ],
+
+    ""requiredQuantity"": ""Bread: 2 slices; Butter: 2 tablespoons; Cheese: 2 slices""
+}##EOF##"
+52,MAKE-DISH->Grilled Cheese Sandwhich,"
+
+{
+    ""dishName"": ""Grilled Cheese Sandwhich"",
+    ""howTo"": ""1. Preheat a skillet over medium heat. 2. Butter one side of each slice of bread. 3. Place the slices of bread, butter side down, onto the preheated skillet. 4. Layer the cheese onto one slice of bread. 5. Place the other slice of bread, butter side up, onto the cheese. 6. Grill the sandwich for 3-4 minutes, or until the bread is golden brown and the cheese has melted. 7. Flip the sandwich and grill for an additional 3-4 minutes. 8. Serve hot."",
+    ""ingredients"": [
+        ""Bread"",
+        ""Butter"",
+        ""Cheese""
+    ],
+
+    ""requiredQuantity"": ""Bread - 2 slices, Butter - 2 tablespoons, Cheese - 2 slices""
+}##EOF##"
+53,MAKE-DISH->Grilled Cheese Sandwhich,"
+
+{
+    ""dishName"": ""Grilled Cheese Sandwhich"",
+    ""howTo"": ""1. Preheat a skillet over medium heat. 2. Butter one side of each slice of bread. 3. Place one slice of bread, butter side down, onto the skillet. 4. Place the cheese onto the bread. 5. Top the cheese with the other slice of bread, butter side up. 6. Grill the sandwich for 3 to 4 minutes, or until golden brown. 7. Flip the sandwich, and grill for an additional 3 to 4 minutes. 8. Serve the grilled cheese sandwich hot."",
+    ""ingredients"": [
+        ""Bread"",
+        ""Butter"",
+        ""Cheese""
+    ],
+
+    ""requiredQuantity"": ""Bread: 2 slices; Butter: 2 tablespoons; Cheese: 2 slices""
+}##EOF##"
+54,MAKE-DISH->Tandoori Chicken,"
+
+{
+    ""dishName"": ""Tandoori Chicken"",
+    ""howTo"": ""Mix the yogurt, garlic, ginger, garam masala, cumin, paprika, cayenne, and salt together in a bowl. Add the chicken and coat with the marinade. Cover and refrigerate for at least 1 hour. Preheat an outdoor grill for high heat and lightly oil the grate. Remove the chicken from the marinade and shake off any excess. Discard the remaining marinade. Grill the chicken for 5 minutes per side, or until cooked through. An instant-read thermometer inserted into the thickest part of the meat should read 165 degrees F (74 degrees C). Serve with lemon wedges."",
+    ""ingredients"": [
+        ""Yogurt"",
+        ""Garlic"",
+        ""Ginger"",
+        ""Garam Masala"",
+        ""Cumin"",
+        ""Paprika"",
+        ""Cayenne"",
+        ""Salt"",
+        ""Chicken"",
+        ""Lemon Wedges""
+    ],
+
+    ""requiredQuantity"": ""Yogurt: 1 cup, Garlic: 2 cloves, Ginger: 1 teaspoon, Garam Masala: 1 teaspoon, Cumin: 1 teaspoon, Paprika: 1 teaspoon, Cayenne: 1/4 teaspoon, Salt: 1/2 teaspoon, Chicken: 4 breasts, Lemon Wedges: 4""
+}##EOF##"
+55,MAKE-DISH->Tandoori Chicken,"
+
+{
+    ""dishName"": ""Tandoori Chicken"",
+    ""howTo"": ""Mix the yogurt, garlic, ginger, garam masala, cumin, coriander, paprika, turmeric, cayenne pepper, and salt together in a bowl. Add the chicken and coat it in the marinade. Cover the bowl and refrigerate for at least 2 hours. Preheat an outdoor grill for high heat and lightly oil the grate. Remove the chicken from the marinade and discard the marinade. Grill the chicken for 10 minutes on each side, or until the chicken is cooked through."",
+    ""ingredients"": [
+        ""Yogurt"",
+        ""Garlic"",
+        ""Ginger"",
+        ""Garam Masala"",
+        ""Cumin"",
+        ""Coriander"",
+        ""Paprika"",
+        ""Turmeric"",
+        ""Cayenne Pepper"",
+        ""Salt"",
+        ""Chicken""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Yogurt</td><td>1 cup</td></tr><tr><td>Garlic</td><td>2 cloves</td></tr><tr><td>Ginger</td><td>1 teaspoon</td></tr><tr><td>Garam Masala</td><td>1 teaspoon</td></tr><tr><td>Cumin</td><td>1 teaspoon</td></tr><tr><td>Coriander</td><td>1 teaspoon</td></tr><tr><td>Paprika</td><td>1 teaspoon</td></tr><tr><td>Turmeric</td><td>1 teaspoon</td></tr><tr><td>Cayenne Pepper</td><td>1/4 teaspoon</td></tr><tr><td>Salt</td><td>1/2 teaspoon</td></tr><tr><td>Chicken</td><td>1 kg</td></tr></table>""
+}##EOF##"
+56,MAKE-DISH->Tandoori Chicken,"
+
+{
+    ""dishName"": ""Tandoori Chicken"",
+    ""howTo"": ""Marinate the chicken with yogurt, lemon juice, ginger garlic paste, red chilli powder, garam masala, cumin powder, coriander powder, chaat masala, black pepper powder, and salt. Refrigerate for at least 4 hours. Preheat the oven to 350°F. Place the chicken pieces in a baking dish. Bake for 25 minutes. Heat a tandoor or a grill pan and cook the chicken for 5 minutes on each side. Serve hot with onion rings and lemon wedges."",
+    ""ingredients"": [
+        ""Chicken"",
+        ""Yogurt"",
+        ""Lemon Juice"",
+        ""Ginger Garlic Paste"",
+        ""Red Chilli Powder"",
+        ""Garam Masala"",
+        ""Cumin Powder"",
+        ""Coriander Powder"",
+        ""Chaat Masala"",
+        ""Black Pepper Powder"",
+        ""Salt"",
+        ""Onion Rings"",
+        ""Lemon Wedges""
+    ],
+
+    ""requiredQuantity"": ""Chicken - 1kg<br>Yogurt - 1 cup<br>Lemon Juice - 2 tbsp<br>Ginger Garlic Paste - 2 tbsp<br>Red Chilli Powder - 1 tsp<br>Garam Masala - 1 tsp<br>Cumin Powder - 1 tsp<br>Coriander Powder - 1 tsp<br>Chaat Masala - 1/2 tsp<br>Black Pepper Powder - 1/2 tsp<br>Salt - To Taste<br>Onion Rings - 1/2 cup<br>Lemon Wedges - 2""
+}##EOF##"
+57,MAKE-DISH->Vegetable Biryani,"
+
+{
+    ""dishName"": ""Vegetable Biryani"",
+    ""howTo"": ""Heat oil in a pan. Add bay leaf, cloves, cinnamon, cardamom, and cumin seeds. Add chopped onions, ginger, garlic, and green chilies. Saute until the onions turn golden brown. Add chopped tomatoes and cook until the tomatoes turn soft. Add all the vegetables and saute for 5 minutes. Add red chili powder, turmeric powder, coriander powder, and garam masala. Add salt to taste. Add soaked basmati rice and mix well. Add 3 cups of water and bring it to a boil. Reduce the heat and cover the pan with a lid. Cook for 15 minutes. Garnish with coriander leaves and serve hot."",
+    ""ingredients"": [
+        ""Oil"",
+        ""Bay Leaf"",
+        ""Cloves"",
+        ""Cinnamon"",
+        ""Cardamom"",
+        ""Cumin Seeds"",
+        ""Onions"",
+        ""Ginger"",
+        ""Garlic"",
+        ""Green Chilies"",
+        ""Tomatoes"",
+        ""Vegetables"",
+        ""Red Chili Powder"",
+        ""Turmeric Powder"",
+        ""Coriander Powder"",
+        ""Garam Masala"",
+        ""Salt"",
+        ""Basmati Rice"",
+        ""Coriander Leaves""
+    ],
+    ""requiredQuantity"": ""Oil - 2 tbsp<br>Bay Leaf - 1<br>Cloves - 4<br>Cinnamon - 1 inch stick<br>Cardamom - 2<br>Cumin Seeds - 1 tsp<br>Onions - 2 (finely chopped)<br>Ginger - 1 inch (finely chopped)<br>Garlic - 4 cloves (finely chopped)<br>Green Chilies - 2 (finely chopped)<br>Tomatoes - 2 (finely chopped)<br>Vegetables - 2 cups (chopped)<br>Red Chili Powder - 1 tsp<br>Turmeric Powder - 1/4 tsp<br>Coriander Powder - 1 tsp<br>Garam Masala - 1/2 tsp<br>Salt - to taste<br>Basmati Rice - 2 cups (soaked for 30 minutes)<br>Coriander Leaves - for garnishing""
+}##EOF##"
+58,MAKE-DISH->Vegetable Biryani,"
+
+{
+    ""dishName"": ""Vegetable Biryani"",
+    ""howTo"": ""Heat oil in a large pot over medium heat. Add the onions and fry until golden brown. Add the garlic and ginger and fry for 1 minute. Add the spices and fry for another minute. Add the vegetables and fry for 2 minutes. Add the rice and fry for 2 minutes. Add the water and bring to a boil. Reduce the heat to low, cover and simmer for 20 minutes. Serve hot."",
+    ""ingredients"": [
+        ""Oil"",
+        ""Onions"",
+        ""Garlic"",
+        ""Ginger"",
+        ""Spices"",
+        ""Vegetables"",
+        ""Rice"",
+        ""Water""
+    ],
+
+    ""requiredQuantity"": ""Oil - 2 tablespoons <br> Onions - 2, chopped <br> Garlic - 4 cloves, minced <br> Ginger - 1 teaspoon, grated <br> Spices - 1 teaspoon <br> Vegetables - 2 cups, chopped <br> Rice - 2 cups <br> Water - 4 cups""
+}##EOF##"
+59,MAKE-DISH->Vegetable Biryani,"
+
+{
+    ""dishName"": ""Vegetable Biryani"",
+    ""howTo"": ""Heat oil in a large pot over medium heat. Add onions and fry until golden brown. Add ginger and garlic paste and fry for a few minutes. Add the chopped vegetables and fry for 5 minutes. Add the spices, salt and yogurt and fry for a few minutes. Add the rice and mix well. Add 4 cups of water and bring to a boil. Reduce the heat to low, cover and cook for 20 minutes. Garnish with coriander leaves and serve hot."",
+    ""ingredients"": [
+        ""Oil"",
+        ""Onions"",
+        ""Ginger & Garlic Paste"",
+        ""Chopped Vegetables"",
+        ""Spices"",
+        ""Salt"",
+        ""Yogurt"",
+        ""Rice"",
+        ""Coriander Leaves""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredients</th><th>Quantity</th></tr><tr><td>Oil</td><td>2 tbsp</td></tr><tr><td>Onions</td><td>2 medium</td></tr><tr><td>Ginger & Garlic Paste</td><td>2 tsp</td></tr><tr><td>Chopped Vegetables</td><td>1 cup</td></tr><tr><td>Spices</td><td>1 tsp</td></tr><tr><td>Salt</td><td>To Taste</td></tr><tr><td>Yogurt</td><td>1/2 cup</td></tr><tr><td>Rice</td><td>2 cups</td></tr><tr><td>Coriander Leaves</td><td>For Garnish</td></tr></table>""
+}##EOF##"
+60,MAKE-DISH->Chicken Tikka Masala,"
+
+{
+    ""dishName"": ""Chicken Tikka Masala"",
+    ""howTo"": ""In a large bowl, combine the yogurt, garlic, ginger, garam masala, cumin, cayenne pepper, and salt. Add the chicken and turn to coat. Cover and refrigerate for at least 2 hours or overnight. Preheat the oven to 400 degrees F (200 degrees C). Grease a baking sheet with oil. Arrange the chicken pieces on the prepared baking sheet. Bake in the preheated oven for 20 minutes. Heat the oil in a large skillet over medium heat. Add the onion and cook until softened, about 5 minutes. Add the garlic and ginger and cook for 1 minute. Stir in the tomato puree, garam masala, cumin, cayenne pepper, and salt. Simmer for 10 minutes. Add the cream and simmer for 10 minutes more. Add the cooked chicken and simmer for 10 minutes. Serve over basmati rice."",
+    ""ingredients"": [
+        ""Yogurt"",
+        ""Garlic"",
+        ""Ginger"",
+        ""Garam Masala"",
+        ""Cumin"",
+        ""Cayenne Pepper"",
+        ""Salt"",
+        ""Chicken"",
+        ""Oil"",
+        ""Onion"",
+        ""Tomato Puree"",
+        ""Cream"",
+        ""Basmati Rice""
+    ],
+    ""requiredQuantity"": ""Yogurt: 1 cup<br>Garlic: 2 cloves, minced<br>Ginger: 1 teaspoon, grated<br>Garam Masala: 1 teaspoon<br>Cumin: 1 teaspoon<br>Cayenne Pepper: 1/4 teaspoon<br>Salt: 1/2 teaspoon<br>Chicken: 4 skinless, boneless chicken breasts, cut into cubes<br>Oil: 2 tablespoons<br>Onion: 1, chopped<br>Tomato Puree: 1 (14.5 ounce) can<br>Cream: 1/2 cup<br>Basmati Rice: 4 cups, cooked""
+}##EOF##"
+61,MAKE-DISH->Chicken Tikka Masala,"
+
+{
+    ""dishName"": ""Chicken Tikka Masala"",
+    ""howTo"": ""In a large bowl, combine the yogurt, lemon juice, garlic, ginger, garam masala, cumin, cayenne pepper, and salt. Add the chicken and stir to coat. Cover and refrigerate for at least 2 hours, or overnight. Preheat the oven to 375 degrees F (190 degrees C). Grease a baking sheet. Arrange the chicken pieces on the prepared baking sheet. Bake in the preheated oven until the chicken is cooked through and no longer pink in the center, about 25 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Heat the oil in a large skillet over medium heat. Add the onion and cook until softened, about 5 minutes. Stir in the garlic and ginger; cook until fragrant, about 1 minute. Add the tomato sauce, cream, garam masala, cumin, and cayenne pepper. Simmer until the sauce is thickened, about 10 minutes. Add the cooked chicken and simmer until heated through, about 5 minutes. Serve over hot cooked basmati rice."",
+    ""ingredients"": [
+        ""Yogurt"",
+        ""Lemon Juice"",
+        ""Garlic"",
+        ""Ginger"",
+        ""Garam Masala"",
+        ""Cumin"",
+        ""Cayenne Pepper"",
+        ""Salt"",
+        ""Chicken"",
+        ""Oil"",
+        ""Onion"",
+        ""Tomato Sauce"",
+        ""Cream"",
+        ""Basmati Rice""
+    ],
+
+    ""requiredQuantity"": ""Yogurt: 1 cup<br>Lemon Juice: 2 tablespoons<br>Garlic: 2 cloves, minced<br>Ginger: 1 teaspoon, minced<br>Garam Masala: 1 teaspoon<br>Cumin: 1 teaspoon<br>Cayenne Pepper: 1/4 teaspoon<br>Salt: 1/2 teaspoon<br>Chicken: 4 skinless, boneless chicken breast halves<br>Oil: 1 tablespoon<br>Onion: 1, chopped<br>Tomato Sauce: 1 (15 ounce) can<br>Cream: 1/2 cup<br>Basmati Rice: 2 cups, cooked""
+}##EOF##"
+62,MAKE-DISH->Chicken Tikka Masala,"
+
+{
+    ""dishName"": ""Chicken Tikka Masala"",
+    ""howTo"": ""In a large bowl, mix together the yogurt, garlic, ginger, garam masala, cumin, cayenne, and salt. Add the chicken, and stir until evenly coated. Cover and refrigerate for 1 hour. Preheat the oven to 375 degrees F (190 degrees C). Grease a baking dish with oil. Place the chicken pieces in the baking dish, and bake for 30 minutes. Heat the oil in a large skillet over medium heat. Add the onion, and cook until lightly browned. Stir in the garlic, ginger, garam masala, cumin, cayenne, and salt. Cook for 1 minute. Add the tomato puree, and simmer for 10 minutes. Add the cream, and simmer for 10 minutes. Add the chicken pieces, and simmer for 10 minutes. Serve over hot cooked basmati rice."",
+    ""ingredients"": [
+        ""Yogurt"",
+        ""Garlic"",
+        ""Ginger"",
+        ""Garam Masala"",
+        ""Cumin"",
+        ""Cayenne"",
+        ""Salt"",
+        ""Chicken"",
+        ""Oil"",
+        ""Onion"",
+        ""Tomato Puree"",
+        ""Cream"",
+        ""Basmati Rice""
+    ],
+    ""requiredQuantity"": ""Yogurt - 1 cup<br>Garlic - 2 cloves<br>Ginger - 1 teaspoon<br>Garam Masala - 1 teaspoon<br>Cumin - 1 teaspoon<br>Cayenne - 1/2 teaspoon<br>Salt - 1 teaspoon<br>Chicken - 1 kg<br>Oil - 2 tablespoons<br>Onion - 1<br>Tomato Puree - 1 cup<br>Cream - 1/2 cup<br>Basmati Rice - 2 cups""
+}##EOF##"
+63,MAKE-DISH->Chicken Madras,"
+
+{
+    ""dishName"": ""Chicken Madras"",
+    ""howTo"": ""Heat oil in a pan and add mustard seeds, curry leaves, ginger garlic paste and sauté for a minute. Add chopped onion and sauté until it turns golden brown. Add chopped tomatoes, turmeric powder, chilli powder, coriander powder, garam masala and salt. Cook until tomatoes are soft. Add chicken and mix well. Cover and cook until chicken is done. Add coconut milk and cook for a few minutes. Garnish with coriander leaves and serve hot."",
+    ""ingredients"": [
+        ""Oil"",
+        ""Mustard Seeds"",
+        ""Curry Leaves"",
+        ""Ginger Garlic Paste"",
+        ""Onion"",
+        ""Tomatoes"",
+        ""Turmeric Powder"",
+        ""Chilli Powder"",
+        ""Coriander Powder"",
+        ""Garam Masala"",
+        ""Salt"",
+        ""Chicken"",
+        ""Coconut Milk"",
+        ""Coriander Leaves""
+    ],
+
+    ""requiredQuantity"": ""Oil: 2 tbsp<br>Mustard Seeds: 1 tsp<br>Curry Leaves: 1 sprig<br>Ginger Garlic Paste: 1 tbsp<br>Onion: 1, chopped<br>Tomatoes: 2, chopped<br>Turmeric Powder: 1/2 tsp<br>Chilli Powder: 1 tsp<br>Coriander Powder: 2 tsp<br>Garam Masala: 1/2 tsp<br>Salt: to taste<br>Chicken: 500 gms, cut into pieces<br>Coconut Milk: 1/2 cup<br>Coriander Leaves: for garnishing""
+}##EOF##"
+64,MAKE-DISH->Chicken Madras,"
+
+{
+    ""dishName"": ""Chicken Madras"",
+    ""howTo"": ""Heat oil in a pan, add onion, ginger and garlic and fry until golden brown. Add the chicken pieces and fry until lightly browned. Add the spices and fry for a few minutes. Add the tomatoes and fry until the oil separates. Add the coconut milk and simmer until the chicken is cooked. Serve with steamed rice."",
+    ""ingredients"": [
+        ""Chicken"",
+        ""Onion"",
+        ""Ginger"",
+        ""Garlic"",
+        ""Spices"",
+        ""Tomatoes"",
+        ""Coconut Milk""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Chicken</td><td>500 gm</td></tr><tr><td>Onion</td><td>2</td></tr><tr><td>Ginger</td><td>2 inch</td></tr><tr><td>Garlic</td><td>4 cloves</td></tr><tr><td>Spices</td><td>As per taste</td></tr><tr><td>Tomatoes</td><td>2</td></tr><tr><td>Coconut Milk</td><td>1 cup</td></tr></table>""
+}##EOF##"
+65,MAKE-DISH->Chicken Madras,"
+
+{
+    ""dishName"": ""Chicken Madras"",
+    ""howTo"": ""In a large pan, heat the oil over medium-high heat. Add the onion and cook until softened, about 5 minutes. Add the garlic, ginger, and spices and cook for 1 minute. Add the chicken and cook for 5 minutes, stirring occasionally. Add the tomato sauce, coconut milk, and salt and simmer for 10 minutes. Serve over cooked rice."",
+    ""ingredients"": [
+        ""Oil"",
+        ""Onion"",
+        ""Garlic"",
+        ""Ginger"",
+        ""Spices"",
+        ""Chicken"",
+        ""Tomato Sauce"",
+        ""Coconut Milk"",
+        ""Salt""
+    ],
+
+    ""requiredQuantity"": ""Oil - 2 tablespoons<br>Onion - 1, chopped<br>Garlic - 2 cloves, minced<br>Ginger - 1 teaspoon, grated<br>Spices - 1 teaspoon of cumin, 1 teaspoon of coriander, 1/2 teaspoon of turmeric, 1/2 teaspoon of cayenne pepper<br>Chicken - 1 pound, cut into cubes<br>Tomato Sauce - 1/2 cup<br>Coconut Milk - 1 cup<br>Salt - to taste""
+}##EOF##"
+66,MAKE-DISH->Masala Chai,"
+
+{
+    ""dishName"": ""Masala Chai"",
+    ""howTo"": ""Boil 2 cups of water in a pot. Add 1 teaspoon of tea leaves, 1 teaspoon of crushed ginger, 2 cloves, 1 cardamom, 1/4 teaspoon of fennel seeds, 1/4 teaspoon of black peppercorns, 1/4 teaspoon of cinnamon powder and 1/4 teaspoon of nutmeg powder. Let it boil for 5 minutes. Add 2 tablespoons of sugar and 1/4 cup of milk. Boil for another 5 minutes. Strain the tea and serve hot."",
+    ""ingredients"": [
+        ""Water"",
+        ""Tea Leaves"",
+        ""Ginger"",
+        ""Cloves"",
+        ""Cardamom"",
+        ""Fennel Seeds"",
+        ""Black Peppercorns"",
+        ""Cinnamon Powder"",
+        ""Nutmeg Powder"",
+        ""Sugar"",
+        ""Milk""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Water</td><td>2 cups</td></tr><tr><td>Tea Leaves</td><td>1 teaspoon</td></tr><tr><td>Ginger</td><td>1 teaspoon (crushed)</td></tr><tr><td>Cloves</td><td>2</td></tr><tr><td>Cardamom</td><td>1</td></tr><tr><td>Fennel Seeds</td><td>1/4 teaspoon</td></tr><tr><td>Black Peppercorns</td><td>1/4 teaspoon</td></tr><tr><td>Cinnamon Powder</td><td>1/4 teaspoon</td></tr><tr><td>Nutmeg Powder</td><td>1/4 teaspoon</td></tr><tr><td>Sugar</td><td>2 tablespoons</td></tr><tr><td>Milk</td><td>1/4 cup</td></tr></table>""
+}##EOF##"
+67,MAKE-DISH->Masala Chai,"
+
+{
+    ""dishName"": ""Masala Chai"",
+    ""howTo"": ""Boil 2 cups of water in a pan. Add 2 tsp of tea leaves, 2-3 cardamom pods, 2-3 cloves, 1 inch of cinnamon, 1/2 tsp of ginger powder and 1/4 tsp of black pepper powder. Let it boil for 5 minutes. Add 2 tsp of sugar or honey and stir. Add 1 cup of milk and let it boil for another 5 minutes. Strain the tea in a cup and serve hot."",
+    ""ingredients"": [
+        ""Water"",
+        ""Tea Leaves"",
+        ""Cardamom Pods"",
+        ""Cloves"",
+        ""Cinnamon"",
+        ""Ginger Powder"",
+        ""Black Pepper Powder"",
+        ""Sugar or Honey"",
+        ""Milk""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Water</td><td>2 cups</td></tr><tr><td>Tea Leaves</td><td>2 tsp</td></tr><tr><td>Cardamom Pods</td><td>2-3</td></tr><tr><td>Cloves</td><td>2-3</td></tr><tr><td>Cinnamon</td><td>1 inch</td></tr><tr><td>Ginger Powder</td><td>1/2 tsp</td></tr><tr><td>Black Pepper Powder</td><td>1/4 tsp</td></tr><tr><td>Sugar or Honey</td><td>2 tsp</td></tr><tr><td>Milk</td><td>1 cup</td></tr></table>""
+}##EOF##"
+68,MAKE-DISH->Masala Chai,"
+
+{
+    ""dishName"": ""Masala Chai"",
+    ""howTo"": ""Boil 2 cups of water in a pot. Add 2 teaspoons of tea leaves, 1/2 teaspoon of crushed ginger, 1/2 teaspoon of crushed cardamom, 1/4 teaspoon of crushed cloves, 1/4 teaspoon of crushed black pepper and 1/2 teaspoon of sugar. Boil the mixture for 5 minutes. Strain the tea and add 1/2 cup of milk. Boil the mixture for another 5 minutes. Strain the tea and serve hot."",
+    ""ingredients"": [
+        ""Water"",
+        ""Tea Leaves"",
+        ""Ginger"",
+        ""Cardamom"",
+        ""Cloves"",
+        ""Black Pepper"",
+        ""Sugar"",
+        ""Milk""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Water</td><td>2 cups</td></tr><tr><td>Tea Leaves</td><td>2 teaspoons</td></tr><tr><td>Ginger</td><td>1/2 teaspoon</td></tr><tr><td>Cardamom</td><td>1/2 teaspoon</td></tr><tr><td>Cloves</td><td>1/4 teaspoon</td></tr><tr><td>Black Pepper</td><td>1/4 teaspoon</td></tr><tr><td>Sugar</td><td>1/2 teaspoon</td></tr><tr><td>Milk</td><td>1/2 cup</td></tr></table>""
+}##EOF##"
+69,MAKE-DISH->Vegeterian,"
+
+{
+    ""dishName"": ""Vegetarian Chili"",
+    ""howTo"": ""In a large pot, heat oil over medium heat. Add onion and garlic and cook until softened, about 5 minutes. Add bell peppers and jalapeno and cook for an additional 5 minutes. Add chili powder, cumin, oregano, salt, and pepper and cook for 1 minute. Add diced tomatoes, tomato sauce, and black beans. Bring to a boil, reduce heat, and simmer for 20 minutes. Serve with desired toppings."",
+    ""ingredients"": [
+        ""Oil"",
+        ""Onion"",
+        ""Garlic"",
+        ""Bell Peppers"",
+        ""Jalapeno"",
+        ""Chili Powder"",
+        ""Cumin"",
+        ""Oregano"",
+        ""Salt"",
+        ""Pepper"",
+        ""Diced Tomatoes"",
+        ""Tomato Sauce"",
+        ""Black Beans""
+    ],
+    ""requiredQuantity"": ""<table><tr><td>Oil</td><td>2 tablespoons</td></tr><tr><td>Onion</td><td>1/2 cup, diced</td></tr><tr><td>Garlic</td><td>2 cloves, minced</td></tr><tr><td>Bell Peppers</td><td>1/2 cup, diced</td></tr><tr><td>Jalapeno</td><td>1, minced</td></tr><tr><td>Chili Powder</td><td>1 tablespoon</td></tr><tr><td>Cumin</td><td>1 teaspoon</td></tr><tr><td>Oregano</td><td>1 teaspoon</td></tr><tr><td>Salt</td><td>1/2 teaspoon</td></tr><tr><td>Pepper</td><td>1/4 teaspoon</td></tr><tr><td>Diced Tomatoes</td><td>1 can (14.5 ounces)</td></tr><tr><td>Tomato Sauce</td><td>1 can (8 ounces)</td></tr><tr><td>Black Beans</td><td>1 can (15 ounces), drained and rinsed</td></tr></table>""
+}##EOF##"
+70,MAKE-DISH->Vegeterian,"
+
+{
+    ""dishName"": ""Vegetarian Chili"",
+    ""howTo"": ""Heat oil in a large pot over medium heat. Add onion and garlic and cook until softened, about 5 minutes. Add bell pepper, jalapeno, chili powder, cumin, oregano, and salt. Cook for 1 minute. Add vegetable broth, diced tomatoes, tomato sauce, and black beans. Bring to a boil, then reduce heat and simmer for 20 minutes. Add corn and simmer for an additional 5 minutes. Serve with desired toppings."",
+    ""ingredients"": [
+        ""Oil"",
+        ""Onion"",
+        ""Garlic"",
+        ""Bell Pepper"",
+        ""Jalapeno"",
+        ""Chili Powder"",
+        ""Cumin"",
+        ""Oregano"",
+        ""Salt"",
+        ""Vegetable Broth"",
+        ""Diced Tomatoes"",
+        ""Tomato Sauce"",
+        ""Black Beans"",
+        ""Corn""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Oil</td><td>2 tablespoons</td></tr><tr><td>Onion</td><td>1/2 cup, diced</td></tr><tr><td>Garlic</td><td>2 cloves, minced</td></tr><tr><td>Bell Pepper</td><td>1/2 cup, diced</td></tr><tr><td>Jalapeno</td><td>1, seeded and diced</td></tr><tr><td>Chili Powder</td><td>1 tablespoon</td></tr><tr><td>Cumin</td><td>1 teaspoon</td></tr><tr><td>Oregano</td><td>1/2 teaspoon</td></tr><tr><td>Salt</td><td>1/2 teaspoon</td></tr><tr><td>Vegetable Broth</td><td>2 cups</td></tr><tr><td>Diced Tomatoes</td><td>1 can (14.5 ounces)</td></tr><tr><td>Tomato Sauce</td><td>1 can (8 ounces)</td></tr><tr><td>Black Beans</td><td>1 can (15 ounces), drained and rinsed</td></tr><tr><td>Corn</td><td>1 cup, frozen</td></tr></table>""
+}##EOF##"
+71,MAKE-DISH->Vegeterian,"
+
+{
+    ""dishName"": ""Vegetable Fried Rice"",
+    ""howTo"": ""Heat oil in a pan. Add garlic, ginger, and onion. Saute until onion is translucent. Add vegetables and saute for 2-3 minutes. Add cooked rice and mix everything together. Add soy sauce, salt, and pepper. Stir fry for 2-3 minutes. Garnish with spring onion and serve."",
+    ""ingredients"": [
+        ""Oil"",
+        ""Garlic"",
+        ""Ginger"",
+        ""Onion"",
+        ""Vegetables"",
+        ""Cooked Rice"",
+        ""Soy Sauce"",
+        ""Salt"",
+        ""Pepper"",
+        ""Spring Onion""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Oil</td><td>2 tablespoons</td></tr><tr><td>Garlic</td><td>2 cloves, minced</td></tr><tr><td>Ginger</td><td>1 teaspoon, minced</td></tr><tr><td>Onion</td><td>1, chopped</td></tr><tr><td>Vegetables</td><td>1 cup, chopped</td></tr><tr><td>Cooked Rice</td><td>2 cups</td></tr><tr><td>Soy Sauce</td><td>2 tablespoons</td></tr><tr><td>Salt</td><td>To taste</td></tr><tr><td>Pepper</td><td>To taste</td></tr><tr><td>Spring Onion</td><td>For garnish</td></tr></table>""
+}##EOF##"
+72,MAKE-DISH->Non vegeterian,"
+
+{
+    ""dishName"": ""Grilled Chicken"",
+    ""howTo"": ""To make Grilled Chicken, mix the marinade ingredients together in a bowl. Place the chicken in a shallow dish and pour the marinade over the chicken. Cover and refrigerate for at least 2 hours or overnight. Preheat the grill to medium-high heat. Place the chicken on the grill and cook for 5-7 minutes per side or until the chicken is cooked through. Serve with your favorite sides."",
+    ""ingredients"": [
+        ""Chicken"",
+        ""Olive oil"",
+        ""Garlic"",
+        ""Lemon juice"",
+        ""Salt"",
+        ""Pepper"",
+        ""Paprika"",
+        ""Cumin"",
+        ""Cayenne pepper""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><th>Ingredient</th><th>Quantity</th></tr><tr><td>Chicken</td><td>2 pounds</td></tr><tr><td>Olive oil</td><td>2 tablespoons</td></tr><tr><td>Garlic</td><td>2 cloves, minced</td></tr><tr><td>Lemon juice</td><td>2 tablespoons</td></tr><tr><td>Salt</td><td>1 teaspoon</td></tr><tr><td>Pepper</td><td>1/2 teaspoon</td></tr><tr><td>Paprika</td><td>1 teaspoon</td></tr><tr><td>Cumin</td><td>1 teaspoon</td></tr><tr><td>Cayenne pepper</td><td>1/4 teaspoon</td></tr></table>""
+}##EOF##"
+73,MAKE-DISH->Non vegeterian,"
+
+{
+    ""dishName"": ""Chicken Tikka Masala"",
+    ""howTo"": ""To make chicken tikka masala, start by marinating the chicken in a mixture of yogurt, lemon juice, garlic, ginger, and spices. Then, thread the chicken onto skewers and cook it on a grill or in the oven. Next, make the masala sauce by heating oil in a pan and adding onions, garlic, and ginger. Finally, add the cooked chicken, tomato puree, and cream to the sauce and simmer it for 10 minutes.<br><br>To serve, garnish the chicken tikka masala with cilantro and serve it with rice or naan."",
+    ""ingredients"": [
+        ""Chicken"",
+        ""Yogurt"",
+        ""Lemon Juice"",
+        ""Garlic"",
+        ""Ginger"",
+        ""Spices"",
+        ""Oil"",
+        ""Onions"",
+        ""Tomato Puree"",
+        ""Cream"",
+        ""Cilantro""
+    ],
+
+    ""requiredQuantity"": ""<table><tr><td>Chicken</td><td>500 g</td></tr><tr><td>Yogurt</td><td>2 cups</td></tr><tr><td>Lemon Juice</td><td>2 tablespoons</td></tr><tr><td>Garlic</td><td>2 cloves</td></tr><tr><td>Ginger</td><td>1 teaspoon</td></tr><tr><td>Spices</td><td>1 teaspoon</td></tr><tr><td>Oil</td><td>2 tablespoons</td></tr><tr><td>Onions</td><td>1 cup</td></tr><tr><td>Tomato Puree</td><td>1 cup</td></tr><tr><td>Cream</td><td>1/2 cup</td></tr><tr><td>Cilantro</td><td>1/4 cup</td></tr></table>""
+}##EOF##"
+74,MAKE-DISH->Non vegeterian,"
+
+{
+    ""dishName"": ""Chicken Tikka Masala"",
+    ""howTo"": ""In a large bowl, combine the yogurt, garlic, ginger, garam masala, cumin, cayenne pepper, and salt. Add the chicken and turn to coat. Cover and refrigerate for at least 2 hours. Preheat the oven to 400 degrees F (200 degrees C). Grease a baking sheet with oil. Place the chicken pieces on the prepared baking sheet. Bake in the preheated oven until no longer pink in the center, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Heat the oil in a large skillet over medium heat. Add the onion and cook until softened, about 5 minutes. Stir in the garlic and ginger; cook for 1 minute. Add the tomato sauce, cream, garam masala, cumin, and cayenne pepper. Simmer over low heat for 10 minutes. Add the cooked chicken and simmer for 10 minutes. Serve with rice."",
+    ""ingredients"": [
+        ""Yogurt"",
+        ""Garlic"",
+        ""Ginger"",
+        ""Garam Masala"",
+        ""Cumin"",
+        ""Cayenne Pepper"",
+        ""Salt"",
+        ""Chicken"",
+        ""Oil"",
+        ""Onion"",
+        ""Tomato Sauce"",
+        ""Cream""
+    ],
+    ""requiredQuantity"": ""Yogurt - 1/2 cup<br>Garlic - 1 clove, minced<br>Ginger - 1 teaspoon, minced<br>Garam Masala - 1 teaspoon<br>Cumin - 1 teaspoon<br>Cayenne Pepper - 1/2 teaspoon<br>Salt - 1/2 teaspoon<br>Chicken - 4 skinless, boneless chicken breast halves<br>Oil - 1 tablespoon<br>Onion - 1, chopped<br>Tomato Sauce - 1 (8 ounce) can<br>Cream - 1/2 cup""
+}##EOF##"
